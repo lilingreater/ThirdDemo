@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/NumberProgressBar" />
+            <option value="$PROJECT_DIR$/RecyclerViewUtilsapp" />
+            <option value="$PROJECT_DIR$/RecyclerViewUtilslibrary" />
+            <option value="$PROJECT_DIR$/ShadowViewHelperexample" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/cardviewdemo" />
+            <option value="$PROJECT_DIR$/gugleFile" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/linkviewapp" />
+            <option value="$PROJECT_DIR$/muPdfApp" />
+            <option value="$PROJECT_DIR$/myCrash" />
+            <option value="$PROJECT_DIR$/mygride" />
+            <option value="$PROJECT_DIR$/nuwa" />
+            <option value="$PROJECT_DIR$/pickerview" />
+            <option value="$PROJECT_DIR$/pinnedHeaderExpandableListView" />
+            <option value="$PROJECT_DIR$/progress_library" />
+            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/sticky-headers_library" />
+            <option value="$PROJECT_DIR$/sticky_sample" />
+            <option value="$PROJECT_DIR$/testScorllviewExpandablePinned" />
+            <option value="$PROJECT_DIR$/unRar" />
+            <option value="$PROJECT_DIR$/updateSoftDemo" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/NumberProgressBar" />
+            <option value="$PROJECT_DIR$/RecyclerViewUtilsapp" />
+            <option value="$PROJECT_DIR$/RecyclerViewUtilslibrary" />
+            <option value="$PROJECT_DIR$/ShadowViewHelperexample" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/cardviewdemo" />
+            <option value="$PROJECT_DIR$/gugleFile" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/linkviewapp" />
+            <option value="$PROJECT_DIR$/muPdfApp" />
+            <option value="$PROJECT_DIR$/myCrash" />
+            <option value="$PROJECT_DIR$/mygride" />
+            <option value="$PROJECT_DIR$/nuwa" />
+            <option value="$PROJECT_DIR$/pickerview" />
+            <option value="$PROJECT_DIR$/pinnedHeaderExpandableListView" />
+            <option value="$PROJECT_DIR$/progress_library" />
+            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/sticky-headers_library" />
+            <option value="$PROJECT_DIR$/sticky_sample" />
+            <option value="$PROJECT_DIR$/testScorllviewExpandablePinned" />
+            <option value="$PROJECT_DIR$/unRar" />
+            <option value="$PROJECT_DIR$/updateSoftDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_order">
+        <item>全部</item>
+        <item>最近一周</item>
+        <item>近三个月</item>
+    </string-array>
+    <string-array name="record_course">
+        <item>国际注册人力资源管理师</item>
+        <item>注册国际营养师</item>
+        <item>注册国际心理咨询师</item>
+        <item>注册国际理财规划师</item>
+        <item>注册国际健康管理师</item>
+    </string-array>
+</resources>

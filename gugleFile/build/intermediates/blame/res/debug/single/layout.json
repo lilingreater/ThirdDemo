@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\android\\WorkSpace\\ThirdDemo\\gugleFile\\build\\intermediates\\res\\merged\\debug\\layout\\file_item.xml",
+        "source": "D:\\android\\WorkSpace\\ThirdDemo\\gugleFile\\src\\main\\res\\layout\\file_item.xml"
+    },
+    {
+        "merged": "D:\\android\\WorkSpace\\ThirdDemo\\gugleFile\\build\\intermediates\\res\\merged\\debug\\layout\\fileinfo.xml",
+        "source": "D:\\android\\WorkSpace\\ThirdDemo\\gugleFile\\src\\main\\res\\layout\\fileinfo.xml"
+    },
+    {
+        "merged": "D:\\android\\WorkSpace\\ThirdDemo\\gugleFile\\build\\intermediates\\res\\merged\\debug\\layout\\notepad.xml",
+        "source": "D:\\android\\WorkSpace\\ThirdDemo\\gugleFile\\src\\main\\res\\layout\\notepad.xml"
+    },
+    {
+        "merged": "D:\\android\\WorkSpace\\ThirdDemo\\gugleFile\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\android\\WorkSpace\\ThirdDemo\\gugleFile\\src\\main\\res\\layout\\main.xml"
+    }
+]

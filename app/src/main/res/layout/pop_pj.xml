@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="请对本场教师进行评价" />
+
+    <!--<com.lilin.thirdsdk.thirddemo.TextMoveLayout-->
+    <!--android:id="@+id/textLayout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="25dp"-->
+    <!--android:background="#ffffff" />-->
+    <TextView
+        android:id="@+id/tv_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:text="8分"
+        android:textSize="13sp" />
+
+    <SeekBar
+        android:id="@+id/sb_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:max="10"
+        android:maxHeight="20dp"
+        android:progress="8"
+        android:progressDrawable="@drawable/seekbar_bg"
+        android:thumb="@drawable/seekbar_thumb" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="不满意" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="满意" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/et_intro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@null"
+        android:gravity="left"
+        android:hint="补充评价说明"
+        android:lines="4" />
+
+    <Button
+        android:id="@+id/btn_commit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="提交" />
+
+</LinearLayout>

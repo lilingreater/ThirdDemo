@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android\\WorkSpace\\ThirdDemo\\pinnedHeaderExpandableListView\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item.xml",
+        "source": "D:\\android\\WorkSpace\\ThirdDemo\\pinnedHeaderExpandableListView\\src\\main\\res\\drawable\\selector_item.xml"
+    },
+    {
+        "merged": "D:\\android\\WorkSpace\\ThirdDemo\\pinnedHeaderExpandableListView\\build\\intermediates\\res\\merged\\debug\\drawable\\child_bg.xml",
+        "source": "D:\\android\\WorkSpace\\ThirdDemo\\pinnedHeaderExpandableListView\\src\\main\\res\\drawable\\child_bg.xml"
+    },
+    {
+        "merged": "D:\\android\\WorkSpace\\ThirdDemo\\pinnedHeaderExpandableListView\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_group.xml",
+        "source": "D:\\android\\WorkSpace\\ThirdDemo\\pinnedHeaderExpandableListView\\src\\main\\res\\drawable\\selector_group.xml"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NumberProgressBar/NumberProgressBar.iml" filepath="$PROJECT_DIR$/NumberProgressBar/NumberProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewUtilsapp/RecyclerViewUtilsapp.iml" filepath="$PROJECT_DIR$/RecyclerViewUtilsapp/RecyclerViewUtilsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewUtilslibrary/RecyclerViewUtilslibrary.iml" filepath="$PROJECT_DIR$/RecyclerViewUtilslibrary/RecyclerViewUtilslibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShadowViewHelperexample/ShadowViewHelperexample.iml" filepath="$PROJECT_DIR$/ShadowViewHelperexample/ShadowViewHelperexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdDemo.iml" filepath="$PROJECT_DIR$/ThirdDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardviewdemo/cardviewdemo.iml" filepath="$PROJECT_DIR$/cardviewdemo/cardviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gugleFile/gugleFile.iml" filepath="$PROJECT_DIR$/gugleFile/gugleFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progress_library/library.iml" filepath="$PROJECT_DIR$/progress_library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkviewapp/linkviewapp.iml" filepath="$PROJECT_DIR$/linkviewapp/linkviewapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/muPdfApp/muPdfApp.iml" filepath="$PROJECT_DIR$/muPdfApp/muPdfApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCrash/myCrash.iml" filepath="$PROJECT_DIR$/myCrash/myCrash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mygride/mygride.iml" filepath="$PROJECT_DIR$/mygride/mygride.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nuwa/nuwa.iml" filepath="$PROJECT_DIR$/nuwa/nuwa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickerview/pickerview.iml" filepath="$PROJECT_DIR$/pickerview/pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinnedHeaderExpandableListView/pinnedHeaderExpandableListView.iml" filepath="$PROJECT_DIR$/pinnedHeaderExpandableListView/pinnedHeaderExpandableListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progress_library/progress_library.iml" filepath="$PROJECT_DIR$/progress_library/progress_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sticky-headers_library/sticky-headers_library.iml" filepath="$PROJECT_DIR$/sticky-headers_library/sticky-headers_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sticky_sample/sticky_sample.iml" filepath="$PROJECT_DIR$/sticky_sample/sticky_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testScorllviewExpandablePinned/testScorllviewExpandablePinned.iml" filepath="$PROJECT_DIR$/testScorllviewExpandablePinned/testScorllviewExpandablePinned.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unRar/unRar.iml" filepath="$PROJECT_DIR$/unRar/unRar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updateSoftDemo/updateSoftDemo.iml" filepath="$PROJECT_DIR$/updateSoftDemo/updateSoftDemo.iml" />
+    </modules>
+  </component>
+</project>

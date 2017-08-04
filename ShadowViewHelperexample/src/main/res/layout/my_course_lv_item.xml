@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:id="@+id/ll_course"
+        android:padding="@dimen/dip_20"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/my_course_iv1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:scaleType="fitXY"
+            android:src="@mipmap/my_pic_1" />
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#66000000"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/my_course_tv2"
+                    android:layout_width="match_parent"
+                    android:layout_height="33dp"
+                    android:layout_marginLeft="70dp"
+                    android:layout_marginRight="70dp"
+                    android:layout_marginTop="30dp"
+                    android:background="#ffffff"
+                    android:ellipsize="end"
+                    android:gravity="center"
+                    android:lines="1"
+                    android:text="人力资源管理师" />
+
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dip_2"
+                    android:layout_marginLeft="@dimen/dip_70"
+                    android:layout_marginRight="@dimen/dip_70"
+                    android:layout_marginTop="@dimen/dip_1"
+                    android:background="#ffffff" />
+
+                <TextView
+                    android:id="@+id/my_course_tv1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dip_10"
+                    android:gravity="center_vertical"
+                    android:text="VIP取证"
+                    android:textColor="#2f2f2f"
+                    android:textSize="@dimen/text_size_14" />
+
+                <TextView
+                    android:id="@+id/my_course_loopNum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dip_8"
+                    android:text="第一期 2017/05/01-2017/07/01"
+                    android:textColor="#2f2f2f"
+                    android:textSize="@dimen/text_size_12" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/dip_15"
+                    android:layout_marginTop="@dimen/dip_10"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="@dimen/dip_10"
+                    android:paddingRight="@dimen/dip_10">
+
+                    <SeekBar
+                        android:id="@+id/sb_course_study"
+                        android:layout_width="0dp"
+                        android:layout_height="@dimen/dip_5"
+                        android:layout_marginRight="@dimen/dip_10"
+                        android:layout_weight="1"
+                        android:maxHeight="@dimen/dip_5" />
+
+                    <TextView
+                        android:id="@+id/tv_course_study"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="已学5%"
+                        android:textColor="@android:color/white" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

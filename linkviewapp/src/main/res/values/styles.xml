@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="myDropTheme" parent="Widget.AppCompat.DropDownItem.Spinner">
+        <item name="android:textColor">@color/colorciyao</item>
+        <item name="android:textSize">12sp</item>
+        <!--<item name="android:background">@color/white</item>-->
+        <item name="android:popupBackground">@drawable/bg_trans</item>
+        <item name="android:entries">@array/record_order</item>
+        <item name="android:spinnerMode">dropdown</item>
+
+    </style>
+
+</resources>
